@@ -2,7 +2,7 @@
 Ensemble-Boosting Methods is a comprehensive project that explores and applies two powerful boosting techniques, AdaBoost and Gradient Boosting, to various datasets.  This repository provides a thorough understanding of boosting algorithms and their practical implementation, with a specific focus on comparing the resulting models with traditional linear models.
 ## Key Features:
 
--Boosting Algorithms Demystified: Understand the inner workings of AdaBoost and Gradient Boosting, including their strengths, weaknesses, and the underlying mathematics that drive their success.
+-Boosting Algorithms Demystified: Understand the inner workings of AdaBoost and Gradient Boosting, including their strengths, weaknesses, and the underlying mathematics that drive their success.\\
 -Real-World Applications: Apply AdaBoost and Gradient Boosting to a diverse range of datasets, showcasing their adaptability and performance in solving practical problems.
 -Model Comparison: Compare the performance of boosted models with conventional linear models, allowing for an insightful evaluation of the advantages of ensemble methods.
 -Code Samples and Examples: Access clear and well-documented code samples, along with illustrative examples that make it easier to grasp the concepts and implement the boosting algorithms in your own projects.
